@@ -5,4 +5,3 @@ print(a+b)
 triple <- function(x){3*x}
 triple(2)
 
-do triple of this
